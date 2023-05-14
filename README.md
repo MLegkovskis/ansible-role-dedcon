@@ -2,3 +2,5 @@
 
 - Dockerfile contain dockerized server
 
+- VS code test
+
